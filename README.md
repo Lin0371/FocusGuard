@@ -33,7 +33,7 @@
 ## 🚀 快速开始
 
 ### 方式一：直接使用（推荐）
-如果你不熟悉编程，直接前往 [Releases](https://github.com/Lin0371/FocusGuard_compact) 下载 `FocusGuard_compact.exe`，双击启动即可。
+如果你不熟悉编程，下载 `FocusGuard_compact.exe`，双击启动即可。
 
 ### 方式二：开发者模式
 1. **克隆项目**
